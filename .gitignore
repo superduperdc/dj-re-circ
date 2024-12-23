@@ -37,6 +37,8 @@ wheels/
 
 # Virtual environment
 .circ/
+.env
+.env/
 
 # React / Node.js
 node_modules/
